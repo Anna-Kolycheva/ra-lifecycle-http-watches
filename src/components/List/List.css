@@ -1,0 +1,38 @@
+.Watches-List {
+   color: rgb(83, 91, 105);
+   margin-top: 20px;
+}
+
+.clock {
+   margin-top: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.clock_time {
+   font-size: 35px;
+}
+
+.clock_title {
+   width: 150px;
+}
+
+.clock_time {
+   width: 150px;
+}
+
+.clock_remove {
+   width: 23px;
+   height: 23px;
+   text-align: center;
+   margin-right: 60px;
+   margin-left: 40px;
+   background-color: #ffef78;
+   border: 0 solid white;
+   border-radius: 50%;
+}
+
+.clock_remove:hover {
+   background-color: #eb92be;
+}
